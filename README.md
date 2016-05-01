@@ -1,2 +1,5 @@
-# hackerrank
-My hacker rank
+# hackerrank 
+
+repository of solutions for some problems posted on hackerrank website.
+
+
